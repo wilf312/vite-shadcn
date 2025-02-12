@@ -60,7 +60,7 @@ devDependencies:
     version: 0.4.16(eslint@9.17.0)
   globals:
     specifier: ^15.13.0
-    version: 15.13.0
+    version: 15.15.0
   postcss:
     specifier: 8.4.49
     version: 8.4.49
@@ -1505,8 +1505,8 @@ packages:
     engines: {node: '>=18'}
     dev: true
 
-  /globals@15.13.0:
-    resolution: {integrity: sha512-49TewVEz0UxZjr1WYYsWpPrhyC/B/pA8Bq0fUmet2n+eR7yn0IvNzNaoBwnK6mdkzcN+se7Ez9zUgULTz2QH4g==}
+  /globals@15.15.0:
+    resolution: {integrity: sha512-7ACyT3wmyp3I61S4fG682L0VA2RGD9otkqGJIwNUMF1SWUombIIk+af1unuDYgMm082aHYwD+mzJvv9Iu8dsgg==}
     engines: {node: '>=18'}
     dev: true
 
